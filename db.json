@@ -1,6 +1,16 @@
+{
+    "helpDetails":[
     {
         "helpId": 1,
         "helpType": "Problem Type",
         "helpValue": "Need Help",
         "createDate": "2020-04-21T18:30:01.000+0000"
+    },
+    {
+        "helpId": 2,
+        "helpType": "Problem Type",
+        "helpValue": "Help required for Education",
+        "createDate": "2020-04-21T18:30:01.000+0000"
     }
+ ]
+}
